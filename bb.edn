@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :pods {org.babashka/fswatcher {:version "0.0.5"}}}
