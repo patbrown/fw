@@ -1,3 +1,5 @@
+[![bb compatible](https://raw.githubusercontent.com/babashka/babashka/master/logo/badge.svg)](https://babashka.org)
+[![Clojars Project](https://img.shields.io/clojars/v/baby.pat/fw.svg)](https://clojars.org/baby.pat/fw)
 [<img src="resources/fw_logo.jpg" alt="fw" width="200px">](https://fw.pat.baby)
 
 # fw
