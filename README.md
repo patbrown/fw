@@ -13,7 +13,7 @@ Uses [Babashka's FS-Watcher Pod](https://github.com/babashka/pod-babashka-fswatc
 ## Installation
 
 ```clojure
-baby.pat/jessica-spano {:mvn/version "0.1.0"}
+baby.pat/fw {:mvn/version "0.0.2"}
 ```
 
 ## Usage
