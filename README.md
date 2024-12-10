@@ -7,7 +7,9 @@ Uses [Babashka's FS-Watcher Pod](https://github.com/babashka/pod-babashka-fswatc
 
 ## Installation
 
-```baby.pat/jessica-spano {:mvn/version "0.1.0"}```
+```clojure
+baby.pat/jessica-spano {:mvn/version "0.1.0"}
+```
 
 ## Usage
 
