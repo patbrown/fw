@@ -1,4 +1,4 @@
-[<img src="resources/fw_logo.jpg" alt="fw" width="425px">](https://fw.pat.baby)
+[<img src="resources/fw_logo.jpg" alt="fw" width="200px">](https://fw.pat.baby)
 
 # fw
 Simple file-watcher for babashka/jvm.   
