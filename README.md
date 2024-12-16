@@ -23,3 +23,6 @@ baby.pat/fw {:mvn/version "0.0.2"}
 (def watcher (fw/watch "src" prn))
 (fw/kill-watcher! watcher)
 ```
+
+## Usage Notes
+The filewatcher on babashka can by annoying. It want's to return type as CHMOD often. Outside of that behavior I've made a naive attempt at consistent behavior on both evaluation targets.   

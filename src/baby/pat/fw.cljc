@@ -64,6 +64,5 @@
      :clj (beholder/stop watcher)))
 
 #_(def a (watch-path "foss" prn))
-
 #_(kill-watcher! a)
 

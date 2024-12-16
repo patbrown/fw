@@ -24,7 +24,7 @@
               :extra-paths ["src"],
               :nss [{:destination "bin/foss/fw/src",
                      :files ["baby/pat/fw.cljc"],
-                     :source "bin/code/src"}]},
+                     :source "bin/yards/jvm/src"}]},
     :run/repl
       {:extra-deps {cider/cider-nrepl {:mvn/version "0.50.2"},
                     nrepl/nrepl {:mvn/version "1.1.0"},
